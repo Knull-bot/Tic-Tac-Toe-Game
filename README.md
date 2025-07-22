@@ -14,20 +14,14 @@ How to Run
 Clone the repo
 
 bash
-Копировать
-Редактировать
 git clone https://github.com/Knull-bot/Tic-Tac-Toe-Game.git
 Install dependencies
 
 bash
-Копировать
-Редактировать
 npm install
 Start the development server
 
 bash
-Копировать
-Редактировать
 npm start
 Technologies Used
 React ⚛️
