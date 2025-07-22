@@ -1,2 +1,37 @@
-# Tic-Tac-Toe-Game
-A Tic-Tac-Toe game implemented in React.
+Tic-Tac-Toe Game 🎲
+A classic Tic-Tac-Toe game built with React. Play against a friend with a simple and clean interface. Responsive design ensures a smooth experience on any device. ✖️⭕️
+
+Features
+Two-player gameplay 👫
+
+Interactive and intuitive UI 🎨
+
+Responsive design for mobile and desktop 📱💻
+
+Tracks player turns and detects winners 🏆
+
+How to Run
+Clone the repo
+
+bash
+Копировать
+Редактировать
+git clone https://github.com/Knull-bot/Tic-Tac-Toe-Game.git
+Install dependencies
+
+bash
+Копировать
+Редактировать
+npm install
+Start the development server
+
+bash
+Копировать
+Редактировать
+npm start
+Technologies Used
+React ⚛️
+
+JavaScript ES6+ 💻
+
+CSS3 🎨
